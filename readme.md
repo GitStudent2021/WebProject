@@ -1,0 +1,1 @@
+This is a repository for lab exercises as part of a Git/GitHub training class.
